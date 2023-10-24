@@ -219,17 +219,17 @@ This program provides a menu-driven interface for manipulating a singly linked l
 
 ## **OUTPUT**
 
-- Algorithm for Singly Linked List Implementation:
+- Singly Linked List Implementation:
 
 ![exp17_1](https://github.com/Purvansha022609/Linked-List/assets/139473344/65491bbf-1c70-4c87-9129-c747c9721c84)
 
 
-- Algorithm for Singly Linked List Implementation (Insertion at Head):
+- Singly Linked List Implementation (Insertion at Head):
 
 ![exp17_2](https://github.com/Purvansha022609/Linked-List/assets/139473344/5e506f92-ada3-414e-8432-8eddc2bfd0ee)
 
 
-- Algorithm for Singly Linked List Operations Program:
+- Singly Linked List Operations Program:
 
 ![exp17_3](https://github.com/Purvansha022609/Linked-List/assets/139473344/652186d4-1ea7-4c6a-8e3e-ddce74b547a2)
 ![exp17_4](https://github.com/Purvansha022609/Linked-List/assets/139473344/d1e2b312-833f-429f-aca7-2a7d1c072a38)
